@@ -59,19 +59,23 @@ h2 {
 /* CARD */
 .card {
     background: #1e293b;
-    padding: 20px;
+    padding: 18px;
     border-radius: 10px;
-    transition: 0.3s;
+    transition: all 0.3s ease;
+    text-align: center;
+    font-weight: 500;
 }
 
 .card:hover {
-    transform: translateY(-5px);
+    transform: translateY(-6px) scale(1.02);
+    background: #334155;
 }
 
-/* LINKS */
+/* PROJECT LINKS */
 a {
     color: #38bdf8;
     text-decoration: none;
+    font-weight: 500;
 }
 
 a:hover {
@@ -81,6 +85,17 @@ a:hover {
 /* LIST */
 ul {
     margin-left: 20px;
+}
+
+/* CERTIFICATIONS SPECIAL STYLE */
+.container h2 + .grid .card {
+    background: linear-gradient(135deg, #1e293b, #0ea5e9);
+    color: white;
+    font-size: 0.95rem;
+}
+
+.container h2 + .grid .card:hover {
+    background: linear-gradient(135deg, #0284c7, #22c55e);
 }
 
 /* FOOTER */
