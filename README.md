@@ -1,5 +1,4 @@
-![image alt](https://github.com/soumyajeetsur-collab/soumyajeetsur-collab/blob/7bd41fbf6f828584e1aa568b1e72c0b5fdbff409/WhatsApp%20Image%202026-05-06%20at%204.37.02%20PM.jpeg)
-
+![image alt](https://github.com/soumyajeetsur-collab/soumyajeetsur-collab/blob/a3a8cac232817881964d4131ac8ca241c9092efc/WhatsApp_Image_2026-05-06_at_4.37.02_PM.png)
 
 # 👋 Hi there, I'm Soumyajeet Sur
 
