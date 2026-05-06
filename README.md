@@ -1,4 +1,3 @@
-<p align="center">![(https://github.com/soumyajeetsur-collab/soumyajeetsur-collab/blob/main/image)
 
 # 👋 Hi there, I'm Soumyajeet Sur
 
