@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="<img width="338" height="425" alt="image" src="https://github.com/user-attachments/assets/381a2752-cc65-41ed-8138-55ea3b2cb8f1" />
- alt="Profile Photo" width="150" style="border-radius: 50%;" />
+  <img src="images/profile.jpg" alt="Profile Photo" width="150" style="border-radius: 50%;" />
 </p>
 
 🎯 **Aspiring Data Analyst | Excel | SQL | Power BI (Learning)**  
