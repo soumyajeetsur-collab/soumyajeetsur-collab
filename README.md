@@ -100,7 +100,10 @@ I am a motivated and detail-oriented fresher with a strong interest in data anal
 ## 🌐 Connect With Me
 
 www.linkedin.com/in/soumyajeet-sur-76346a272
+## 📬 Contact Me
 
+📧 Email: soumyajeetsur@gmail.com  
+📱 Phone: +91-9417661038
 
 
 ---
