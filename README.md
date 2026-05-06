@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="(https://github.com/soumyajeetsur-collab/soumyajeetsur-collab/blob/main/image.jpg)" width="150" style="border-radius:50%;" alt="Soumyajeet Sur">
-</p>
+<img src="https://github.com/soumyajeetsur-collab/soumyajeetsur-collab/blob/main/WhatsApp_Image_2026-05-06_at_4.37.02_PM.png" width="150" style="border-radius:50%;">
 
 # 👋 Hi there, I'm Soumyajeet Sur
 
