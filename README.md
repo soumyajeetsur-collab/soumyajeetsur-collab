@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="</p>https://github.com/soumyajeetsur-collab/soumyajeetsur-collab/blob/main/image.png" width="150" alt="Soumyajeet Profile Photo"/>
-
-# 👋 Hi there, I'm Soumyajeet Sur
+  <img src="<img width="338" height="425" alt="image" src="https://github.com/user-attachments/assets/381a2752-cc65-41ed-8138-55ea3b2cb8f1" />
+ alt="Profile Photo" width="150" style="border-radius: 50%;" />
+</p>
 
 🎯 **Aspiring Data Analyst | Excel | SQL | Power BI (Learning)**  
 
