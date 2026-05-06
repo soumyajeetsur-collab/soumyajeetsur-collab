@@ -1,4 +1,5 @@
 <img src="https://github.com/soumyajeetsur-collab/soumyajeetsur-collab/blob/main/image.jpg" width="150" style="border-radius:50%;">
+<img width="338" height="425" alt="image" src="https://github.com/user-attachments/assets/8a4d575f-cb5e-455a-b09b-d55dd6aabc0e" />
 
 # 👋 Hi there, I'm Soumyajeet Sur
 
