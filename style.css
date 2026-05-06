@@ -1,6 +1,3 @@
-/* GOOGLE FONT */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
-
 /* RESET */
 * {
     margin: 0;
@@ -10,137 +7,91 @@
 
 /* BODY */
 body {
-    font-family: 'Poppins', sans-serif;
-    background: linear-gradient(135deg, #0f172a, #1e293b);
+    font-family: 'Segoe UI', sans-serif;
+    background: #0f172a;
     color: #e2e8f0;
     line-height: 1.6;
 }
 
-/* HERO SECTION */
-.hero {
-    text-align: center;
-    padding: 60px 20px;
-    background: linear-gradient(135deg, #1d4ed8, #06b6d4);
-    color: white;
+/* CONTAINER */
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
 }
 
-.profile-img {
-    width: 150px;
-    height: 150px;
+/* HEADER */
+.header {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.profile img {
+    width: 140px;
+    height: 140px;
     border-radius: 50%;
-    border: 4px solid white;
+    border: 4px solid #38bdf8;
     object-fit: cover;
     margin-bottom: 15px;
-    transition: transform 0.3s ease;
 }
 
-.profile-img:hover {
-    transform: scale(1.05);
+.profile h1 {
+    font-size: 2rem;
 }
 
-.hero h1 {
-    font-size: 2.2rem;
-    margin-bottom: 10px;
-}
-
-.hero p {
-    font-size: 1.1rem;
-    opacity: 0.9;
-}
-
-/* SECTIONS */
-.section {
-    max-width: 1000px;
-    margin: 30px auto;
-    padding: 25px;
-    background: rgba(255, 255, 255, 0.05);
-    border-radius: 15px;
-    backdrop-filter: blur(10px);
-    box-shadow: 0 8px 20px rgba(0,0,0,0.3);
-    transition: transform 0.3s ease;
-}
-
-.section:hover {
-    transform: translateY(-5px);
-}
-
-.section h2 {
-    margin-bottom: 15px;
-    color: #38bdf8;
-}
-
-.section h3 {
-    margin-top: 10px;
-    color: #facc15;
-}
-
-.section ul {
-    margin-left: 20px;
-    margin-top: 10px;
-}
-
-.section ul li {
-    margin-bottom: 6px;
-}
-
-/* PROJECT CARDS */
-.project {
-    margin-top: 15px;
-    padding: 15px;
-    border-radius: 10px;
-    background: rgba(255,255,255,0.07);
-    transition: all 0.3s ease;
-}
-
-.project:hover {
-    background: rgba(255,255,255,0.12);
-    transform: scale(1.02);
-}
-
-.project a {
-    display: inline-block;
-    margin-top: 10px;
-    text-decoration: none;
-    color: #0ea5e9;
-    font-weight: 500;
-}
-
-.project a:hover {
-    text-decoration: underline;
-}
-
-/* CONTACT */
-.contact p {
-    margin-bottom: 8px;
-}
-
-.contact a {
-    color: #38bdf8;
-    text-decoration: none;
-}
-
-.contact a:hover {
-    text-decoration: underline;
-}
-
-/* FOOTER */
-footer {
-    text-align: center;
-    padding: 15px;
-    margin-top: 20px;
-    background: #020617;
-    font-size: 0.9rem;
+.profile p {
     color: #94a3b8;
 }
 
-/* RESPONSIVE */
-@media (max-width: 768px) {
-    .hero h1 {
-        font-size: 1.8rem;
-    }
+/* HEADINGS */
+h2 {
+    margin-bottom: 15px;
+    color: #38bdf8;
+}
 
-    .section {
-        margin: 20px 15px;
-        padding: 20px;
+/* GRID */
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+/* CARD */
+.card {
+    background: #1e293b;
+    padding: 20px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+/* LINKS */
+a {
+    color: #38bdf8;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* LIST */
+ul {
+    margin-left: 20px;
+}
+
+/* FOOTER */
+.footer {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+/* RESPONSIVE */
+@media (max-width: 600px) {
+    .profile h1 {
+        font-size: 1.5rem;
     }
 }
