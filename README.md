@@ -1,4 +1,6 @@
-https://github.com/soumyajeetsur-collab/soumyajeetsur-collab/blob/main/image.png
+<p align="center">
+  <img src="</p>https://github.com/soumyajeetsur-collab/soumyajeetsur-collab/blob/main/image.png" width="150" alt="Soumyajeet Profile Photo"/>
+
 # 👋 Hi there, I'm Soumyajeet Sur
 
 🎯 **Aspiring Data Analyst | Excel | SQL | Power BI (Learning)**  
