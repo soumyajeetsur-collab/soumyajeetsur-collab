@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/soumyajeetsur-collab/soumyajeetsur-collab/blob/main/images/profile.jpg" width="150" style="border-radius:50%;" alt="Soumyajeet Sur">
+</p>
+
 # 👋 Hi there, I'm Soumyajeet Sur
 
 🎯 **Aspiring Data Analyst | Excel | SQL | Power BI (Learning)**  
@@ -12,34 +16,28 @@ I am a motivated and detail-oriented fresher with a strong interest in data anal
 - 🌱 Currently learning SQL and Power BI  
 - 💡 Interested in business analytics and decision-making  
 
+---
 
 ## 🧑‍💼 Apprenticeship Experience
 
 ### 📊 Data Analyst Apprentice (Dizital Mantras)  
-       From Aug 2025 to May 2026
+From Aug 2025 to May 2026
 - Practicing data analysis using Excel, SQL, and Power BI  
 - Built interactive dashboards and reports  
 - Worked on real-world datasets to generate insights  
 - Strengthened skills in data cleaning and visualization  
+
 ---
 
 ## 🎓 Education
 
-**🎓 [Pursing MBA in Amity University Nodia Online]** 
-     
-     [MBA (Data Science) – Amity University (2025–2027)]
+🎓 **Pursuing MBA (Data Science) – Amity University (2025–2027)**  
 
-**🎓 [B.COM]**  
-[Patiala University]  
-📅 [2024]  
+🎓 **B.COM – Patiala University (2024)**  
 
-**🎓 Higher Secondary (12th Grade)**  
-[KVS / CBSE]  
-📅 [2021]  
+🎓 **12th – CBSE (2021)**  
 
-**🎓 Secondary (10th Grade)**  
-[KVS / CBSE]  
-📅 [2019]  
+🎓 **10th – CBSE (2019)**  
 
 ---
 
@@ -52,10 +50,10 @@ I am a motivated and detail-oriented fresher with a strong interest in data anal
 
 ### ⚙️ Tools & Technologies
 - MS Excel
-- MS Power Bi
+- MS Power BI
 - Python  
 - Basic SQL (Learning)
-- Git & GitHubb  
+- Git & GitHub  
 
 ---
 
@@ -83,7 +81,7 @@ I am a motivated and detail-oriented fresher with a strong interest in data anal
 - Certificate of Principle of Retailing  
 - Certificate Course in Leadership and Motivation in Organization  
 - Certificate Course in Basic Mathematics  
-- Certificate Course on Economic Foundation of Pricing 
+- Certificate Course on Economic Foundation of Pricing  
 
 ---
 
@@ -96,19 +94,18 @@ I am a motivated and detail-oriented fresher with a strong interest in data anal
 ---
 
 ## 🌐 Connect With Me
+🔗 https://www.linkedin.com/in/soumyajeet-sur-76346a272  
 
-www.linkedin.com/in/soumyajeet-sur-76346a272
+---
+
 ## 📬 Contact Me
-
 📧 Email: soumyajeetsur@gmail.com  
-📱 Phone: +91-9417661038
-
+📱 Phone: +91-9417661038  
 
 ---
 
 ## 📌 Portfolio
-
-👉 https://github.com/soumyajeetsur-collab
+👉 https://github.com/soumyajeetsur-collab  
 
 ---
 
