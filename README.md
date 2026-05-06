@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/profile.jpg" alt="Profile Photo" width="150" style="border-radius: 50%;" />
+  <img src="(https://github.com/soumyajeetsur-collab/soumyajeetsur-collab/blob/main/image.png)" alt="Profile Photo" width="150" style="border-radius: 50%;" />
 </p>
 
 🎯 **Aspiring Data Analyst | Excel | SQL | Power BI (Learning)**  
