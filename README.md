@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/soumyajeetsur-collab/soumyajeetsur-collab/blob/main/images/profile.jpg" width="150" style="border-radius:50%;" alt="Soumyajeet Sur">
+  <img src="(https://github.com/soumyajeetsur-collab/soumyajeetsur-collab/blob/main/image.jpg)" width="150" style="border-radius:50%;" alt="Soumyajeet Sur">
 </p>
 
 # 👋 Hi there, I'm Soumyajeet Sur
