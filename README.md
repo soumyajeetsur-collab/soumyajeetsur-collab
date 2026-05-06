@@ -14,9 +14,21 @@ I am a motivated and detail-oriented fresher with a strong interest in data anal
 - 🌱 Currently learning SQL and Power BI  
 - 💡 Interested in business analytics and decision-making  
 
+
+## 🧑‍💼 Apprenticeship Experience
+
+### 📊 Data Analyst Apprentice (Dizital Mantras)  
+       From Aug 2025 to May 2026
+- Practicing data analysis using Excel, SQL, and Power BI  
+- Built interactive dashboards and reports  
+- Worked on real-world datasets to generate insights  
+- Strengthened skills in data cleaning and visualization  
 ---
 
 ## 🎓 Education
+
+**🎓 [Pursing MBA in Amity University Nodia Online]** 
+     MBA (Data Science) – Amity University (2025–2027)
 
 **🎓 [B.COM]**  
 [Patiala University]  
