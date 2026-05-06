@@ -1,3 +1,6 @@
+![image alt](https://github.com/soumyajeetsur-collab/soumyajeetsur-collab/blob/7bd41fbf6f828584e1aa568b1e72c0b5fdbff409/WhatsApp%20Image%202026-05-06%20at%204.37.02%20PM.jpeg)
+
+
 # 👋 Hi there, I'm Soumyajeet Sur
 
 🎯 **Aspiring Data Analyst | Excel | SQL | Power BI (Learning)**  
