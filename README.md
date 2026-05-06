@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
 <img src="(https://github.com/soumyajeetsur-collab/soumyajeetsur-collab/blob/main/image.jpg)" width="150" style="border-radius:50%;" alt="Soumyajeet Sur">
-</p>
+</div>
 
 # 👋 Hi there, I'm Soumyajeet Sur
 
