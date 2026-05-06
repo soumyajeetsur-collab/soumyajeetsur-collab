@@ -28,7 +28,7 @@ I am a motivated and detail-oriented fresher with a strong interest in data anal
 ## 🎓 Education
 
 **🎓 [Pursing MBA in Amity University Nodia Online]** 
-     [MBA (Data Science) – Amity University (2025–2027)]
+[MBA (Data Science) – Amity University (2025–2027)]
 
 **🎓 [B.COM]**  
 [Patiala University]  
