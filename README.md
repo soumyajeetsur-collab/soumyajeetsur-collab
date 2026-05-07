@@ -73,7 +73,22 @@ From Aug 2025 to May 2026
 - Improved data accuracy and efficiency  
 
 ---
+# Python_Diwali_Sales_Analysis
+# 🪔 Diwali Sales Analysis using Python
 
+## 📌 Project Overview
+
+This project focuses on analyzing Diwali sales data using Python to uncover customer purchasing behavior, sales trends, and business insights. The analysis helps identify high-performing customer segments, states, occupations, and product categories during the festive season.
+
+The project includes:
+
+* Data Cleaning
+* Data Preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Business Insights
+
+---
 ## 📜 Certifications
 - Certificate of Advanced Excel  
 - Certificate Course in Professional and Life Skills  
