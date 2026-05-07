@@ -73,8 +73,9 @@ From Aug 2025 to May 2026
 - Improved data accuracy and efficiency  
 
 ---
-# Python_Diwali_Sales_Analysis
+
 # 🪔 Diwali Sales Analysis using Python
+📂 https://github.com/soumyajeetsur-collab/Python_Diwali_Sales_Analysis
 
 ## 📌 Project Overview
 
