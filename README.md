@@ -58,14 +58,6 @@ From Aug 2025 to May 2026
 
 ## 📌 Projects
 
-### 🔹 Blinkit Sales Dashboard  
-📂 https://github.com/soumyajeetsur-collab/Blinkit-Project-with-Dashboard  
-- Created an interactive sales dashboard using Excel  
-- Used pivot tables, charts, and data cleaning techniques  
-- Analyzed sales trends and product performance  
-
----
-
 ### 🔹 Employee Payslip Dashboard  
 📂 https://github.com/soumyajeetsur-collab/Employee-payslip-dashboard-excel  
 - Developed a dynamic payroll dashboard  
@@ -90,6 +82,15 @@ The project includes:
 * Business Insights
 
 ---
+
+### 🔹 Blinkit Sales Dashboard  
+📂 https://github.com/soumyajeetsur-collab/Blinkit-Project-with-Dashboard  
+- Created an interactive sales dashboard using Excel  
+- Used pivot tables, charts, and data cleaning techniques  
+- Analyzed sales trends and product performance  
+
+---
+
 ## 📜 Certifications
 - Certificate of Advanced Excel  
 - Certificate Course in Professional and Life Skills  
