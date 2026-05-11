@@ -58,36 +58,94 @@ From Aug 2025 to May 2026
 
 ## 📌 Projects
 
-### 🔹 Employee Payslip Dashboard  
-📂 https://github.com/soumyajeetsur-collab/Employee-payslip-dashboard-excel  
-- Developed a dynamic payroll dashboard  
-- Automated salary calculations and reports  
-- Improved data accuracy and efficiency  
+---
+
+### 🔹 Employee Payslip Dashboard
+
+📂 Repository:  
+👉 https://github.com/soumyajeetsur-collab/Employee-payslip-dashboard-excel
+
+#### 📌 Project Highlights
+- Developed a dynamic payroll dashboard using Excel
+- Automated salary calculations and payroll reports
+- Improved efficiency and data accuracy
+- Used formulas, charts, and dashboard visualization techniques
 
 ---
 
-# 🪔 Diwali Sales Analysis using Python
-📂 https://github.com/soumyajeetsur-collab/Python_Diwali_Sales_Analysis
+### 🔹 Diwali Sales Analysis using Python
 
-## 📌 Project Overview
+📂 Repository:  
+👉 https://github.com/soumyajeetsur-collab/Python_Diwali_Sales_Analysis
 
-This project focuses on analyzing Diwali sales data using Python to uncover customer purchasing behavior, sales trends, and business insights. The analysis helps identify high-performing customer segments, states, occupations, and product categories during the festive season.
+#### 📌 Project Overview
 
-The project includes:
+This project analyzes Diwali sales data using Python to uncover customer purchasing behavior, sales trends, and business insights.
 
-* Data Cleaning
-* Data Preprocessing
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-* Business Insights
+#### 🔍 Key Analysis Performed
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Customer Segmentation
+- Business Insights Generation
+
+#### 🛠️ Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
 ---
 
-### 🔹 Blinkit Sales Dashboard  
-📂 https://github.com/soumyajeetsur-collab/Blinkit-Project-with-Dashboard  
-- Created an interactive sales dashboard using Excel  
-- Used pivot tables, charts, and data cleaning techniques  
-- Analyzed sales trends and product performance  
+### 🔹 Blinkit Sales Dashboard
+
+📂 Repository:  
+👉 https://github.com/soumyajeetsur-collab/Blinkit-Project-with-Dashboard
+
+#### 📌 Project Highlights
+- Built an interactive sales dashboard using Excel
+- Used Pivot Tables, Charts, and Data Cleaning
+- Analyzed sales trends and product performance
+- Generated business insights using dashboard visualization
+
+---
+
+### 🔹 SQL Retail Sales Analysis Project
+
+📂 Repository:  
+👉 https://github.com/soumyajeetsur-collab/sql_retail_sales_P1
+
+#### 📌 Project Overview
+
+This project focuses on analyzing retail sales data using SQL to uncover customer purchasing behavior, sales trends, and business insights.
+
+#### 🔍 Key Analysis Performed
+- Data Cleaning & Validation
+- Exploratory Data Analysis (EDA)
+- Sales Trend Analysis
+- Customer Purchase Analysis
+- Product Category Performance
+- Business Insights Generation
+
+#### 🛠️ Technologies Used
+- SQL
+- MySQL / PostgreSQL
+- Git & GitHub
+
+#### 📊 SQL Concepts Used
+- SELECT Statements
+- WHERE Clause
+- GROUP BY
+- ORDER BY
+- Aggregate Functions
+- CASE Statements
+- Date Functions
+- Common Table Expressions (CTE)
+
+---  
 
 ---
 
