@@ -1,264 +1,380 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Soumyajeet Sur | Data Analyst Portfolio</title>
 
     <!-- CSS -->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css" />
 
-    <!-- Google Font -->
+    <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
 </head>
+
 <body>
 
-    <!-- HERO SECTION -->
-    <header class="hero">
-        <div class="container hero-content">
+    <!-- HEADER -->
+    <header>
+        <div class="container nav-container">
 
-            <img src="https://raw.githubusercontent.com/soumyajeetsur-collab/soumyajeetsur-collab/main/image.jpg"
-                 alt="Soumyajeet Sur"
-                 class="profile-img">
+            <div class="logo">
+                Soumyajeet<span>Sur</span>
+            </div>
 
-            <h1>Soumyajeet Sur</h1>
-
-            <p class="subtitle">
-                Aspiring Data Analyst | Excel | SQL | Python | Power BI
-            </p>
-
-            <a href="https://github.com/soumyajeetsur-collab" target="_blank" class="btn">
-                View Portfolio
-            </a>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#skills">Skills</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#experience">Experience</a></li>
+                    <li><a href="#education">Education</a></li>
+                    <li><a href="#certifications">Certifications</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
 
         </div>
     </header>
 
-    <!-- ABOUT -->
-    <section class="section">
-        <div class="container">
-            <h2>🚀 About Me</h2>
+    <!-- HERO SECTION -->
+    <section class="hero" id="home">
 
-            <p>
-                I am a motivated and detail-oriented aspiring Data Analyst passionate about
-                transforming raw data into meaningful business insights. I enjoy working
-                with dashboards, visualization tools, and analytical techniques to solve
-                real-world business problems.
-            </p>
+        <div class="container hero-content">
 
-            <div class="about-grid">
+            <div class="hero-text">
 
-                <div class="about-card">
-                    <h3>📊 Data Analysis</h3>
-                    <p>Passionate about analytics, insights, and visualization.</p>
-                </div>
+                <h1>Hi, I'm <span>Soumyajeet Sur</span></h1>
 
-                <div class="about-card">
-                    <h3>📈 Dashboard Creation</h3>
-                    <p>Skilled in creating interactive Excel dashboards.</p>
-                </div>
+                <h2>Aspiring Data Analyst</h2>
 
-                <div class="about-card">
-                    <h3>🌱 Learning</h3>
-                    <p>Currently learning SQL, Power BI, and Python.</p>
+                <p>
+                    Passionate about transforming raw data into meaningful business insights
+                    using Excel, SQL, Python, and Power BI.
+                </p>
+
+                <div class="hero-buttons">
+                    <a href="#projects" class="btn">View Projects</a>
+                    <a href="#contact" class="btn btn-outline">Contact Me</a>
                 </div>
 
             </div>
+
+            <div class="hero-image">
+                <img src="image.jpg" alt="Soumyajeet Sur" class="profile-img">
+            </div>
+
         </div>
+
+    </section>
+
+    <!-- ABOUT -->
+    <section class="section" id="about">
+
+        <div class="container">
+
+            <div class="section-title">
+                <h2>About Me</h2>
+            </div>
+
+            <div class="about-card">
+
+                <p>
+                    I am a motivated and detail-oriented fresher with strong interest in
+                    data analytics, business intelligence, and dashboard development.
+                    I enjoy working with data to uncover trends and insights that support
+                    better decision-making.
+                </p>
+
+                <div class="about-grid">
+
+                    <div class="info-box">
+                        <i class="fas fa-chart-line"></i>
+                        <h3>Data Analytics</h3>
+                        <p>Excel, SQL & Dashboard Reporting</p>
+                    </div>
+
+                    <div class="info-box">
+                        <i class="fas fa-database"></i>
+                        <h3>Database</h3>
+                        <p>Basic SQL & Data Cleaning</p>
+                    </div>
+
+                    <div class="info-box">
+                        <i class="fas fa-laptop-code"></i>
+                        <h3>Programming</h3>
+                        <p>Python for Data Analysis</p>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- SKILLS -->
+    <section class="section dark-section" id="skills">
+
+        <div class="container">
+
+            <div class="section-title">
+                <h2>Technical Skills</h2>
+            </div>
+
+            <div class="skills-grid">
+
+                <div class="skill-card">
+                    <i class="fas fa-file-excel"></i>
+                    <h3>Microsoft Excel</h3>
+                    <p>Advanced Excel, Pivot Tables, Dashboard Creation</p>
+                </div>
+
+                <div class="skill-card">
+                    <i class="fas fa-chart-pie"></i>
+                    <h3>Power BI</h3>
+                    <p>Interactive Dashboards & Visualization</p>
+                </div>
+
+                <div class="skill-card">
+                    <i class="fab fa-python"></i>
+                    <h3>Python</h3>
+                    <p>Pandas, NumPy, Matplotlib, Seaborn</p>
+                </div>
+
+                <div class="skill-card">
+                    <i class="fas fa-database"></i>
+                    <h3>SQL</h3>
+                    <p>Queries, Joins, Aggregations & EDA</p>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- PROJECTS -->
+    <section class="section" id="projects">
+
+        <div class="container">
+
+            <div class="section-title">
+                <h2>Projects</h2>
+            </div>
+
+            <div class="projects-grid">
+
+                <!-- PROJECT -->
+                <div class="project-card">
+
+                    <h3>Employee Payslip Dashboard</h3>
+
+                    <p>
+                        Developed a dynamic payroll dashboard using Excel with
+                        automated salary calculations and reporting.
+                    </p>
+
+                    <a href="https://github.com/soumyajeetsur-collab/Employee-payslip-dashboard-excel" target="_blank">
+                        View Project →
+                    </a>
+
+                </div>
+
+                <!-- PROJECT -->
+                <div class="project-card">
+
+                    <h3>Diwali Sales Analysis using Python</h3>
+
+                    <p>
+                        Performed exploratory data analysis on festive sales data
+                        using Python to identify customer trends and insights.
+                    </p>
+
+                    <a href="https://github.com/soumyajeetsur-collab/Python_Diwali_Sales_Analysis" target="_blank">
+                        View Project →
+                    </a>
+
+                </div>
+
+                <!-- PROJECT -->
+                <div class="project-card">
+
+                    <h3>Blinkit Sales Dashboard</h3>
+
+                    <p>
+                        Built an interactive sales dashboard in Excel using charts,
+                        pivot tables, and data visualization techniques.
+                    </p>
+
+                    <a href="https://github.com/soumyajeetsur-collab/Blinkit-Project-with-Dashboard" target="_blank">
+                        View Project →
+                    </a>
+
+                </div>
+
+                <!-- PROJECT -->
+                <div class="project-card">
+
+                    <h3>SQL Retail Sales Analysis</h3>
+
+                    <p>
+                        Analyzed retail sales data using SQL to uncover customer
+                        purchasing behavior and business insights.
+                    </p>
+
+                    <a href="https://github.com/soumyajeetsur-collab/sql_retail_sales_P1" target="_blank">
+                        View Project →
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
     </section>
 
     <!-- EXPERIENCE -->
-    <section class="section dark-section">
+    <section class="section dark-section" id="experience">
+
         <div class="container">
 
-            <h2>🧑‍💼 Experience</h2>
+            <div class="section-title">
+                <h2>Experience</h2>
+            </div>
 
-            <div class="card">
-                <h3>📊 Data Analyst Apprentice — Dizital Mantras</h3>
+            <div class="timeline">
 
-                <span>Aug 2025 – May 2026</span>
+                <div class="timeline-card">
 
-                <ul>
-                    <li>Worked on real-world datasets using Excel, SQL, and Power BI</li>
-                    <li>Built interactive dashboards and reports</li>
-                    <li>Performed data cleaning and preprocessing</li>
-                    <li>Generated business insights using data visualization</li>
-                </ul>
+                    <h3>Data Analyst Apprentice</h3>
+
+                    <span>Dizital Mantras | Aug 2025 – May 2026</span>
+
+                    <ul>
+                        <li>Worked on Excel, SQL, and Power BI projects</li>
+                        <li>Built dashboards and business reports</li>
+                        <li>Performed data cleaning and visualization</li>
+                        <li>Generated insights using real-world datasets</li>
+                    </ul>
+
+                </div>
+
             </div>
 
         </div>
+
     </section>
 
     <!-- EDUCATION -->
-    <section class="section">
+    <section class="section" id="education">
+
         <div class="container">
 
-            <h2>🎓 Education</h2>
+            <div class="section-title">
+                <h2>Education</h2>
+            </div>
 
-            <div class="grid">
+            <div class="education-grid">
 
-                <div class="card">
+                <div class="education-card">
                     <h3>MBA (Data Science)</h3>
                     <p>Amity University</p>
                     <span>2025 – 2027</span>
                 </div>
 
-                <div class="card">
+                <div class="education-card">
                     <h3>B.COM</h3>
                     <p>Patiala University</p>
                     <span>2024</span>
                 </div>
 
-                <div class="card">
-                    <h3>12th (CBSE)</h3>
-                    <span>2021</span>
-                </div>
-
-                <div class="card">
-                    <h3>10th (CBSE)</h3>
-                    <span>2019</span>
-                </div>
-
             </div>
 
         </div>
-    </section>
 
-    <!-- SKILLS -->
-    <section class="section dark-section">
-        <div class="container">
-
-            <h2>🛠️ Skills</h2>
-
-            <div class="skills-grid">
-
-                <div class="skill-card">Excel</div>
-                <div class="skill-card">SQL</div>
-                <div class="skill-card">Power BI</div>
-                <div class="skill-card">Python</div>
-                <div class="skill-card">Data Cleaning</div>
-                <div class="skill-card">Dashboard Creation</div>
-                <div class="skill-card">Git & GitHub</div>
-
-            </div>
-
-        </div>
-    </section>
-
-    <!-- PROJECTS -->
-    <section class="section">
-        <div class="container">
-
-            <h2>📌 Projects</h2>
-
-            <div class="grid">
-
-                <!-- Project 1 -->
-                <div class="project-card">
-                    <h3>Employee Payslip Dashboard</h3>
-
-                    <p>
-                        Dynamic payroll dashboard built using Excel with
-                        automated calculations and reporting.
-                    </p>
-
-                    <a href="https://github.com/soumyajeetsur-collab/Employee-payslip-dashboard-excel"
-                       target="_blank">
-                        View Project →
-                    </a>
-                </div>
-
-                <!-- Project 2 -->
-                <div class="project-card">
-                    <h3>Diwali Sales Analysis</h3>
-
-                    <p>
-                        Python-based sales analysis project using Pandas,
-                        Matplotlib, and Seaborn for business insights.
-                    </p>
-
-                    <a href="https://github.com/soumyajeetsur-collab/Python_Diwali_Sales_Analysis"
-                       target="_blank">
-                        View Project →
-                    </a>
-                </div>
-
-                <!-- Project 3 -->
-                <div class="project-card">
-                    <h3>Blinkit Sales Dashboard</h3>
-
-                    <p>
-                        Interactive Excel dashboard analyzing sales trends,
-                        products, and performance insights.
-                    </p>
-
-                    <a href="https://github.com/soumyajeetsur-collab/Blinkit-Project-with-Dashboard"
-                       target="_blank">
-                        View Project →
-                    </a>
-                </div>
-
-                <!-- Project 4 -->
-                <div class="project-card">
-                    <h3>SQL Retail Sales Analysis</h3>
-
-                    <p>
-                        SQL project analyzing retail sales data using EDA,
-                        customer insights, and business reporting queries.
-                    </p>
-
-                    <a href="https://github.com/soumyajeetsur-collab/sql_retail_sales_P1"
-                       target="_blank">
-                        View Project →
-                    </a>
-                </div>
-
-            </div>
-
-        </div>
     </section>
 
     <!-- CERTIFICATIONS -->
-    <section class="section dark-section">
+    <section class="section dark-section" id="certifications">
+
         <div class="container">
 
-            <h2>📜 Certifications</h2>
+            <div class="section-title">
+                <h2>Certifications</h2>
+            </div>
 
-            <div class="skills-grid">
+            <div class="certification-grid">
 
-                <div class="skill-card">Advanced Excel</div>
-                <div class="skill-card">Professional & Life Skills</div>
-                <div class="skill-card">Principles of Retailing</div>
-                <div class="skill-card">Leadership & Motivation</div>
-                <div class="skill-card">Basic Mathematics</div>
-                <div class="skill-card">Economic Foundation of Pricing</div>
+                <div class="cert-card">Advanced Excel</div>
+
+                <div class="cert-card">
+                    Professional & Life Skills
+                </div>
+
+                <div class="cert-card">
+                    Principles of Retailing
+                </div>
+
+                <div class="cert-card">
+                    Leadership & Motivation
+                </div>
+
+                <div class="cert-card">
+                    Basic Mathematics
+                </div>
+
+                <div class="cert-card">
+                    Economic Foundation of Pricing
+                </div>
 
             </div>
 
         </div>
+
     </section>
 
     <!-- CONTACT -->
-    <footer class="footer">
+    <footer id="contact">
 
-        <div class="container">
+        <div class="container footer-content">
 
-            <h2>📬 Contact Me</h2>
-
-            <p>📧 soumyajeetsur@gmail.com</p>
-
-            <p>📱 +91-9417661038</p>
+            <h2>Contact Me</h2>
 
             <p>
-                🔗
+                <i class="fas fa-envelope"></i>
+                soumyajeetsur@gmail.com
+            </p>
+
+            <p>
+                <i class="fas fa-phone"></i>
+                +91-9417661038
+            </p>
+
+            <p>
+                <i class="fab fa-linkedin"></i>
                 <a href="https://www.linkedin.com/in/soumyajeet-sur-76346a272" target="_blank">
                     LinkedIn Profile
                 </a>
             </p>
 
-            <p class="footer-text">
-                ✨ Turning data into meaningful insights for better decision-making.
+            <p>
+                <i class="fab fa-github"></i>
+                <a href="https://github.com/soumyajeetsur-collab" target="_blank">
+                    GitHub Portfolio
+                </a>
             </p>
+
+            <div class="footer-bottom">
+                © 2026 Soumyajeet Sur | Data Analyst Portfolio
+            </div>
 
         </div>
 
